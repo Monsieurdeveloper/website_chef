@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "font";
+    src: url("../fonts/COPRGTL.TTF");
+}
+span, a{
+    font-family: "font";
+    text-decoration: none;
+    color: black;
+}
